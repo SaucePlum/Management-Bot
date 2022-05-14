@@ -1,0 +1,6 @@
+database:
+  host: "localhost" # Mysql数据库服务IP地址
+  port: 3306 # Mysql数据库服务端口
+  db: "xxxxxx" # Mysql数据库连接database名字
+  user: "xxxxxx" # Mysql数据库连接用户名
+  password: "xxxxxx" # Mysql数据库连接password
